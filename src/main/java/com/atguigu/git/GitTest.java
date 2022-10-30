@@ -1,6 +1,6 @@
 
 
-package atguigu.git;
+package com.atguigu.git;
 
 public class GitTest  {
     public static void main(String[] args) {
@@ -14,5 +14,6 @@ public class GitTest  {
         System.out.println("hello git5");
         //pull拉取测试
         System.out.println("Pull test");
+        System.out.println("gitee test");
     }
 }
